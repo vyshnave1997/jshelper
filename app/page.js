@@ -7,7 +7,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className={styles.hero}>
        
-        <h1 className={styles.title}>Welcome to JavaScript Documentation Hub 🚀</h1>
+        <h1 className={styles.title}>javascript helper 🚀</h1>
         <p className={styles.subtitle}>
           Master JavaScript — from fundamentals to advanced interview prep.
         </p>
